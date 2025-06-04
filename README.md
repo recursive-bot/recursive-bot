@@ -4,7 +4,7 @@
 ### 🌱 I’m currently learning Cybersecurity, Linux, and Python.
 ### 💞️ I created cybersecurity portfolio. Please find it [here](https://github.com/recursive-bot/recursive-bot.git).
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>🛡️ CyberSecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
