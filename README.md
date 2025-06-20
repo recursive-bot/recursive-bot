@@ -1,7 +1,7 @@
 <h1>Hi, I'm Karthik R T! <br/> <a href="https://www.linkedin.com/in/karthik-r-t/">Cybersecurity Enthusiast</a></h1>
 
 ### 👀 Thank you for coming to my space. This is where I make magics and share it to the world! 
-### 🌱 I’m currently learning Cybersecurity, Linux, and Python.
+### 🌱 I’m currently learning Cybersecurity, Linux, Python and Bash.
 
 <h2>🛡️ CyberSecurity Projects:</h2>
 
