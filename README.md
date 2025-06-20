@@ -10,6 +10,9 @@
   
 - <b>Pwnagotchi WiFi Pentesting Tool</b>
   - [Pwnagotchi](https://github.com/recursive-bot/Pwnagotchi)
+    
+- <b>Bash Scripting</b>
+  - [Pingsweep Scan](https://github.com/recursive-bot/Bash-Scripting/blob/main/1.pingsweep.sh)
 
 <h2> 🤳 Connect with me:</h2>
 
