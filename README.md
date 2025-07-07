@@ -14,7 +14,7 @@
 - <b>Bash Scripting</b>
   - [Pingsweep Scan](https://github.com/recursive-bot/Bash-Scripting/blob/main/1.pingsweep.sh)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="Karthik-R-T | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
