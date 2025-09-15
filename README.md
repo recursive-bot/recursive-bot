@@ -43,6 +43,7 @@ My journey in Electronics and Communication has cultivated a strong passion for 
 ### Scripting
 <div>
     <img src="https://img.shields.io/badge/-Python?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash?&style=for-the-badge&logo=Bash&logoColor=white" />
 </div>
 
 ## Certifications
