@@ -57,6 +57,6 @@ My journey in Electronics and Communication has cultivated a strong passion for 
 </div>
 
 ## Projects
-- Pwnagotchi
-- SOC Operations with IBMQradar and Splunk
+- Pwnagotchi /href="https://github.com/recursive-bot/Pwnagotchi"
+- SOC Operations with IBMQradar and Splunk 
 
