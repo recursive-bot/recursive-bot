@@ -15,6 +15,7 @@ My journey in Electronics and Communication has cultivated a strong passion for 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| WiFi Pentesting Tool                          | <a href="https://github.com/recursive-bot/Pwnagotchi">Pwnagotchi</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -51,7 +52,7 @@ My journey in Electronics and Communication has cultivated a strong passion for 
 <img src="https://img.shields.io/badge/-CEHv13-FF0000?&style=for-the-badge&logo=ECCouncil&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEHv13_Practical-007ACC?&style=for-the-badge&logo=ECCouncil&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEHv13_Masters-4D4D4D?&style=for-the-badge&logo=eccouncil&logoColor=white" />
-<img src="https://img.shields.io/badge/-Networking-006400?&style=for-the-badge&logo=amazon&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Networking-006400?&style=for-the-badge&logo=amazon&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/-Networking-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
