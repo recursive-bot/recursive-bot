@@ -32,16 +32,17 @@ My journey in Electronics and Communication has cultivated a strong passion for 
     <img src="https://img.shields.io/badge/-Snort?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-OpenEDR?&style=for-the-badge&logo=OpenEDR&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ## Certifications
