@@ -24,11 +24,14 @@ My journey in Electronics and Communication has cultivated a strong passion for 
 
 ## Tools
 
-### Network
+### Network and Web
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-BurpSuite-EF3B2D?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVas?&style=for-the-badge&logo=OpenVas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zaproxy?&style=for-the-badge&logo=Zaproxy&logoColor=white" />
 </div>
 
 ### Endpoint
