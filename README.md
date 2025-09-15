@@ -28,7 +28,7 @@ My journey in Electronics and Communication has cultivated a strong passion for 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-BurpSuite-EF3B2D?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
 ### Endpoint
