@@ -16,7 +16,7 @@ My journey in Electronics and Communication has cultivated a strong passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | WiFi Pentesting Tool                          | <a href="https://github.com/recursive-bot/Pwnagotchi">Pwnagotchi</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | SOC Automation Lab |
 | Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
 
 ## Tools
